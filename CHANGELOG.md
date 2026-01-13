@@ -20,6 +20,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
    the ability to specify custom default values for fields, using non-unit enum 
    variants as default values and set custom bounds.
    ([#534](https://github.com/JelteF/derive_more/pull/534))
+ - Add support for custom eq functions in `PartialEq` derive.
+   ([#535](https://github.com/JelteF/derive_more/pull/535))
+
 
 ## 2.1.1 - 2025-12-22
 
